@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_f8bdaac87c86cc8a9bb3c81ee32f118a7de6cfbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_7c7a7e89c48b6ee11494d6bb1573e20b5552b1e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6aebb7e16d7834f57b0038896239167cdf77aeaa">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/instant-run_a83c74b7f4a2cb4c518fb3c2cce464afcf5098ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_451c983cac4e9cca8f5aed634d45f79c25b0a7cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_5ef9b253d3f8f73b644399bc8a2e9c9ebe9593c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_6f079a580fe5b013ccebdd239cab9a7c6137831f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ad558cf55c36843977f2c45b719832d2a4679bde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_894e94a0a8c5e2e2569482c95247e68a5584b211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_b49c75e9c394bb918427d1dc2bee119a6d11fc30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b2b0cb674d3e8c30666244428620cd21dfc17a64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_f2763a3add4ab287fed97f5a47c6a71c883c2be6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_d96f3446ca0eecba3c0d8bcf85bb3b6266ebc740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c2e990ce6bb328f441333f10432f39327e7a924">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_cc685d925d48c92407e7b909490582e6f28fe40b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d2e2d92b557f19a6e44d49c2770eb634fe58d171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_c598e110068c1ee4ddb6d8fbf4af244e415504b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_5fb4e071f5389305fb8dc680870b2e98df5361ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/cynda/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_b11c1283a3c0220f57ed4e879bbd233bb7b97de1.jar" />
+    </item>
+
+</items>
